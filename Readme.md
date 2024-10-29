@@ -8,6 +8,14 @@
 
 # Программа для ПК
 
+## версия 1.0a
+
+[Windows x64](https://disk.yandex.ru/d/C5qfWyCdqt6JIw)
+
+[Linux x64](https://disk.yandex.ru/d/JbaHTZECY1w3Iw)
+
+Изменения: длина шлейфа увеличена в 5 раз.
+
 ## версия 0.0a
 
 [Windows x64](https://www.dropbox.com/scl/fi/w911oisx29l2z3z5n01ws/BrainTrainer_00a_win64.zip?rlkey=uh84m0us5f4n5laj0buqz6ptx&st=ip3lvmna&dl=0)
