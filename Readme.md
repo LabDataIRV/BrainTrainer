@@ -8,7 +8,7 @@
 
 # Программа для ПК
 
-## версия 1.0a
+## версия 0.1a
 
 [Windows x64](https://disk.yandex.ru/d/C5qfWyCdqt6JIw)
 
